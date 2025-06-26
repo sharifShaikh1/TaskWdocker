@@ -7,7 +7,7 @@
     "db:generate": "drizzle-kit generate",
     "db:migrate": "bun src/db/migrate.ts"
   },
-  "dependencies": {
+  "dependencies": { 
     "@hono/clerk-auth": "^2.0.0",
     "@hono/swagger-ui": "^0.2.2",
     "@hono/zod-validator": "^0.2.2",
